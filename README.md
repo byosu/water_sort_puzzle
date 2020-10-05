@@ -11,7 +11,7 @@ To automate the game process, there are 3 functions to be implemented: **screen 
 
 ## Screen Reading
 
-Screen reading consists of ## parts: find test tubes on the screen, find the colors in each tube, translate the RGB value of the colors into category. With these steps, a screenshot of the game is converted to an array representing colors in each tube.
+Screen reading consists of 3 parts: find test tubes on the screen, find the colors in each tube, translate the RGB value of the colors into category. With these steps, a screenshot of the game is converted to an array representing colors in each tube.
 
 ### Find test tubes
 
